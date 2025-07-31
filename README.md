@@ -2,7 +2,7 @@
 
 ## Esta es mi primer repositorio para practicar los principios basicos de Git y Github
 
-### Aquí también practivaremos con MarkDown
+### Aquí también practicaremos con MarkDown
 
 *Este es cursiva*
 
